@@ -1,23 +1,106 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8272130d-cc08-4e63-8e79-6f08fed8b66e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/artifacts/src/i18n/pmp-i18n-bundle/i18n/ara.json" beforeDir="false" afterPath="$PROJECT_DIR$/artifacts/src/i18n/pmp-i18n-bundle/i18n/ara.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/artifacts/src/i18n/pmp-i18n-bundle/i18n/eng.json" beforeDir="false" afterPath="$PROJECT_DIR$/artifacts/src/i18n/pmp-i18n-bundle/i18n/eng.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/artifacts/src/i18n/pmp-i18n-bundle/i18n/fra.json" beforeDir="false" afterPath="$PROJECT_DIR$/artifacts/src/i18n/pmp-i18n-bundle/i18n/fra.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/artifacts/src/i18n/pmp-i18n-bundle/i18n/hin.json" beforeDir="false" afterPath="$PROJECT_DIR$/artifacts/src/i18n/pmp-i18n-bundle/i18n/hin.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/artifacts/src/i18n/pmp-i18n-bundle/i18n/kan.json" beforeDir="false" afterPath="$PROJECT_DIR$/artifacts/src/i18n/pmp-i18n-bundle/i18n/kan.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/artifacts/src/i18n/pmp-i18n-bundle/i18n/tam.json" beforeDir="false" afterPath="$PROJECT_DIR$/artifacts/src/i18n/pmp-i18n-bundle/i18n/tam.json" afterDir="false" />
+    <list default="true" id="62e485dc-ced0-4867-959f-3ffb3c650e2d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/artifacts/src/master-templates/appl_form_type.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artifacts/src/master-templates/applicant_valid_document.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artifacts/src/master-templates/biometric_attribute.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artifacts/src/master-templates/biometric_type.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artifacts/src/master-templates/blocklisted_words.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artifacts/src/master-templates/daysofweek_list.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artifacts/src/master-templates/device_master.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artifacts/src/master-templates/device_master_h.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artifacts/src/master-templates/device_spec.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artifacts/src/master-templates/device_type.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artifacts/src/master-templates/doc_category.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artifacts/src/master-templates/doc_type.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artifacts/src/master-templates/dynamic_field.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artifacts/src/master-templates/gender.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artifacts/src/master-templates/id_type.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artifacts/src/master-templates/individual_type.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artifacts/src/master-templates/language.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artifacts/src/master-templates/loc_hierarchy_list.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artifacts/src/master-templates/loc_holiday.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artifacts/src/master-templates/location.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artifacts/src/master-templates/machine_master.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artifacts/src/master-templates/machine_master_h.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artifacts/src/master-templates/machine_spec.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artifacts/src/master-templates/machine_type.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artifacts/src/master-templates/module_detail.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artifacts/src/master-templates/reason_category.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artifacts/src/master-templates/reason_list.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artifacts/src/master-templates/reg_center_type.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artifacts/src/master-templates/reg_device_type.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artifacts/src/master-templates/reg_exceptional_holiday.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artifacts/src/master-templates/reg_working_nonworking_csv.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artifacts/src/master-templates/registration_center.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artifacts/src/master-templates/registration_center_h.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artifacts/src/master-templates/template.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artifacts/src/master-templates/template_file_format.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artifacts/src/master-templates/template_type.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artifacts/src/master-templates/title.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artifacts/src/master-templates/user_detail.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artifacts/src/master-templates/user_detail_h.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artifacts/src/master-templates/valid_document.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artifacts/src/master-templates/zone.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artifacts/src/master-templates/zone_user.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artifacts/src/master-templates/zone_user_h.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="y" value="-7" />
+    <option name="width" value="781" />
+    <option name="height" value="845" />
+  </component>
   <component name="ProjectId" id="1xFcKWSgVMMYKms4KYk7E5k8zg1" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="artifactory-ref-impl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="artifactory-ref-impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="artifactory-ref-impl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="artifactory-ref-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="artifactory-ref-impl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="artifactory-ref-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -25,28 +108,128 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/artifacts/src" />
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Develop_Branch_all\artifactory-ref-impl\artifacts\src\i18n\pmp-i18n-bundle\i18n" />
+      <recent name="D:\Develop_Branch_all\artifactory-ref-impl\artifacts\src\i18n\pmp-entity-spec-bundle\entity-spec" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8272130d-cc08-4e63-8e79-6f08fed8b66e" name="Default Changelist" comment="" />
+      <changelist id="62e485dc-ced0-4867-959f-3ffb3c650e2d" name="Default Changelist" comment="" />
       <created>1629954212613</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1629954212613</updated>
     </task>
+    <task id="LOCAL-00001" summary="Corrected indentation.">
+      <created>1630051580942</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1630051580942</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24147122" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="DB Browser" order="7" />
+      <window_info id="Project Explorer" order="8" />
+      <window_info id="Job Explorer" order="9" />
+      <window_info anchor="bottom" id="ExcelReader" weight="0.32936078" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.531961" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32936078" />
+      <window_info anchor="bottom" id="Analysis" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="DB Execution Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Corrected indentation." />
+    <option name="LAST_COMMIT_MESSAGE" value="Corrected indentation." />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/artifacts/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="141" column="49" selection-start-line="141" selection-start-column="49" selection-end-line="141" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
